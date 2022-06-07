@@ -20,7 +20,7 @@
 
 ### my g-mail
 - appleploy1500@gmail.com (private mail)
-- 64050162@kmitl.ac.th (work mail)
+- ploychomphu.ths@gmail.com (work mail)
 
 ### Languages and Tools:
 
