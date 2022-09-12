@@ -16,10 +16,11 @@
 [twitter]: https://twitter.com/sarxnzx
 [youtube]: https://youtube.com/channel/UCoq3QYEVE3-RLPN5CWH0PJA
 [instagram]: https://instagram.com/centpros_
+[facebook]: [https://instagram.com/centpros_](https://web.facebook.com/galanthuz.ths)
 
 <br />
 
-### my g-mail
+### my G-mail
 - appleploy1500@gmail.com (private mail)
 - ploychomphu.ths@gmail.com (work mail)
 
