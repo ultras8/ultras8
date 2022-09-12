@@ -2,15 +2,16 @@
 
 ### Hi there, I'm P.U. - aka pickopiw ☀
 
-## I'm Student!
-- 🌼 I like to learn new things.
-- 🌼 I'm studying in kmitl university (Department of Computer Science)
-- 🌼 Fact about me : I like to sing a song / play guitar / knitting and drink coke ♥
+## Facts About Me (now) !
+- 🌼 The 2-year Computer Science student, KMITL.
+- 🌼 I like to sing a song / play guitar / knitting and drink coke ♥
+- 🌼 I'm practicing to play bass or drum set
 
 ### Connect with me:
 
 [<img align="left" alt="sarxnzx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="centpros_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="centpros_ | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/sarxnzx
 [youtube]: https://youtube.com/channel/UCoq3QYEVE3-RLPN5CWH0PJA
