@@ -1,3 +1,4 @@
+<img src="https://github.com/ultras8/ultras8/blob/main/Banner.png" align="center" style="width: 100%" />  
 
 ### Hi there, I'm P.U. - aka pickopiw ☀
 
