@@ -1,6 +1,6 @@
 <img src="https://github.com/ultras8/ultras8/blob/main/Banner.png" align="center" style="width: 100%" />  
 
-### Hi there, I'm P.U. - aka pickopiw ☀
+### <div align="center">Hi there, I'm P.U. - aka pickopiw ☀</div>
 
 ## Facts About Me (now) !
 - 🌼 The 2-year Computer Science student, KMITL.
