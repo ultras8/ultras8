@@ -40,6 +40,7 @@
 <img align="left" alt="c++" width="26px" src="https://camo.githubusercontent.com/85bbae78986bcb31380ac186650bd80ae957e6d62f1bc4980dcef9ffb6bcb251/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f632d342d3232363038322e706e67" />
 <img align="left" alt="c++" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />
 <img align="left" alt="c++" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
+<img align="left" alt="react" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 
 
 
