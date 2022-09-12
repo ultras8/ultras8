@@ -42,7 +42,7 @@
 <img align="left" alt="c++" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />
 <img align="left" alt="c++" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
 <img align="left" alt="react" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
-<img align="left" alt="python" width="26px" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" />
+<img align="left" alt="python" width="73px" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" />
 
 
 <br />
