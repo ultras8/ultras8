@@ -38,7 +38,6 @@
 <br />
 <br />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67" />
 <img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/30eebcd20fb15aa9ca305071e77267812ed25f8a6cc1e2b7b101d024f7535073/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f632d35382d313137353234372e706e67" />
