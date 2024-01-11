@@ -21,7 +21,7 @@
 <br />
 
 ### my G-mail
-- appleploy1500@gmail.com (private mail)
+- ploychomphu.thspv@gmail.com (private mail)
 - ploychomphu.ths@gmail.com (work mail)
 
 ### Languages and Tools:
