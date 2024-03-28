@@ -39,9 +39,8 @@
 <br />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/7b23e6c442adf9ef0714d6b52c2621b3ebef58bcc2f101b8dabab05904201e4f/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67" />
-<img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/30eebcd20fb15aa9ca305071e77267812ed25f8a6cc1e2b7b101d024f7535073/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f632d35382d313137353234372e706e67" />
-<img align="left" alt="c++" width="26px" src="https://camo.githubusercontent.com/85bbae78986bcb31380ac186650bd80ae957e6d62f1bc4980dcef9ffb6bcb251/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f632d342d3232363038322e706e67" />
+<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
+<img align="left" alt="C" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw093xnmYgio8dwtpQNb26dz&ust=1711728579822000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLikr4Ksl4UDFQAAAAAdAAAAABAD" />
 <img align="left" alt="c++" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />
 <img align="left" alt="c++" width="73px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
 <img align="left" alt="react" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
