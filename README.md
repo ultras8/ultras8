@@ -3,7 +3,7 @@
 ### <div align="center">Hi there, I'm P.U. - aka pickopiw ☀</div>
 
 ## Facts About Me (now) !
-- 🌼 The 2-year Computer Science student, KMITL.
+- 🌼 The 4-year Computer Science student, KMITL.
 - 🌼 I like to sing a song / play guitar / knitting and drink coke ♥
 - 🌼 I'm practicing to play bass or drum set
 
